@@ -1,0 +1,19 @@
+{
+  "cancel_ci": false,
+  "cancel_ci_branch": false,
+  "close": false,
+  "comments": [
+    "@Yajo: Greetings! Thanks for taking the time to open this issue. In order for the community to handle your issue effectively, we need a bit more information.\n\nHere are the items we could not find in your description:\n- component name\n\nPlease set the description of this issue with an appropriate template from:\nhttps://github.com/ansible/ansible/tree/devel/.github/ISSUE_TEMPLATE\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: issue_missing_data --->"
+  ],
+  "merge": false,
+  "newlabel": [
+    "has_pr",
+    "needs_info",
+    "needs_template"
+  ],
+  "open": false,
+  "rebuild": false,
+  "rebuild_failed": false,
+  "uncomment": [],
+  "unlabel": []
+}
