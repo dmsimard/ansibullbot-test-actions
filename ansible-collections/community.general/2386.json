@@ -5,6 +5,8 @@
   "comments": [],
   "merge": false,
   "newlabel": [
+    "needs_rebase",
+    "needs_revision",
     "stale_ci"
   ],
   "open": false,

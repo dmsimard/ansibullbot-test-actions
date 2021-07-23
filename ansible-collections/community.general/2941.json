@@ -11,6 +11,7 @@
   "uncomment": [],
   "unlabel": [
     "needs_ci",
-    "new_module"
+    "new_module",
+    "stale_ci"
   ]
 }

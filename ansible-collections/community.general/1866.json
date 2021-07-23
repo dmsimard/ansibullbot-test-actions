@@ -1,12 +1,14 @@
 {
   "cancel_ci": false,
   "cancel_ci_branch": false,
-  "close": false,
-  "comments": [],
+  "close": true,
+  "comments": [
+    "@AlexBe1ov You have not responded to information requests in this pullrequest so we will assume it no longer affects you. If you are still interested in this, please create a new pullrequest with the requested information.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: needs_info_base --->"
+  ],
   "merge": false,
   "newlabel": [
-    "stale_ci",
-    "stale_review"
+    "needs_rebase",
+    "stale_ci"
   ],
   "open": false,
   "rebuild": false,

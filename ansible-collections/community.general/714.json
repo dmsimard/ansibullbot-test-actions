@@ -3,7 +3,6 @@
   "cancel_ci_branch": false,
   "close": false,
   "comments": [
-    "Files identified in the description:\n* [`plugins/modules/pam_limits.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/pam_limits.py)\n\nIf these files are incorrect, please update the `component name` section of the description or use the `!component` bot command.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: components_banner --->",
     "@Akasurde This issue is waiting for your response. Please respond or the issue will be closed.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: needs_info_base --->"
   ],
   "merge": false,

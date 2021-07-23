@@ -4,12 +4,13 @@
   "close": false,
   "comments": [],
   "merge": false,
-  "newlabel": [],
+  "newlabel": [
+    "cloud",
+    "module"
+  ],
   "open": false,
   "rebuild": false,
   "rebuild_failed": false,
   "uncomment": [],
-  "unlabel": [
-    "needs_ci"
-  ]
+  "unlabel": []
 }

@@ -2,9 +2,7 @@
   "cancel_ci": false,
   "cancel_ci_branch": false,
   "close": false,
-  "comments": [
-    "Files identified in the description:\n* [`plugins/modules/bitbucket_access_key.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/bitbucket_access_key.py)\n* [`plugins/modules/bitbucket_pipeline_key_pair.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/bitbucket_pipeline_key_pair.py)\n* [`plugins/modules/bitbucket_pipeline_known_host.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/bitbucket_pipeline_known_host.py)\n* [`plugins/modules/bitbucket_pipeline_variable.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/bitbucket_pipeline_variable.py)\n\nIf these files are incorrect, please update the `component name` section of the description or use the `!component` bot command.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: components_banner --->"
-  ],
+  "comments": [],
   "merge": false,
   "newlabel": [
     "has_pr"
