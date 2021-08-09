@@ -1,0 +1,15 @@
+{
+  "cancel_ci": false,
+  "cancel_ci_branch": false,
+  "close": false,
+  "comments": [
+    "Files identified in the description:\n* [`plugins/modules/packaging/os/snap.py`](https://github.com/ansible-collections/community.general/blob/devel/plugins/modules/packaging/os/snap.py)\n\nIf these files are incorrect, please update the `component name` section of the description or use the `!component` bot command.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/devel/ISSUE_HELP.md)\n<!--- boilerplate: components_banner --->"
+  ],
+  "merge": false,
+  "newlabel": [],
+  "open": false,
+  "rebuild": false,
+  "rebuild_failed": false,
+  "uncomment": [],
+  "unlabel": []
+}
