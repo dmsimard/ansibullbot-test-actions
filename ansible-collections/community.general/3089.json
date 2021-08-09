@@ -10,6 +10,8 @@
   "rebuild_failed": false,
   "uncomment": [],
   "unlabel": [
-    "needs_ci"
+    "needs_ci",
+    "new_module",
+    "stale_ci"
   ]
 }

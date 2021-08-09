@@ -10,6 +10,9 @@
   "rebuild_failed": false,
   "uncomment": [],
   "unlabel": [
-    "needs_ci"
+    "WIP",
+    "needs_ci",
+    "needs_maintainer",
+    "stale_ci"
   ]
 }

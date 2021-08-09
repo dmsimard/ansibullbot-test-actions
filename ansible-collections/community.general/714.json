@@ -3,7 +3,7 @@
   "cancel_ci_branch": false,
   "close": false,
   "comments": [
-    "@Akasurde This issue is waiting for your response. Please respond or the issue will be closed.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/master/ISSUE_HELP.md)\n<!--- boilerplate: needs_info_base --->"
+    "@Akasurde This issue is waiting for your response. Please respond or the issue will be closed.\n\n[click here for bot help](https://github.com/ansible/ansibullbot/blob/devel/ISSUE_HELP.md)\n<!--- boilerplate: needs_info_base --->"
   ],
   "merge": false,
   "newlabel": [],
