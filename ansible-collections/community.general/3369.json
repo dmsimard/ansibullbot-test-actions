@@ -1,0 +1,15 @@
+{
+  "cancel_ci": true,
+  "cancel_ci_branch": true,
+  "close": true,
+  "comments": [
+    "@patchback[bot] Please create a new PR using a branch in your fork.\n<!--- boilerplate: fork --->"
+  ],
+  "merge": false,
+  "newlabel": [],
+  "open": false,
+  "rebuild": false,
+  "rebuild_failed": false,
+  "uncomment": [],
+  "unlabel": []
+}
